@@ -1,0 +1,50 @@
+﻿body {
+	margin:20px 0;
+	background-color:#066;
+	font-family:sans-serif;
+}
+nav {
+	width:860px;
+	margin:auto;
+	background-color:#C90;
+	padding:20px 0;
+	text-align:center;
+	border-radius: 15px 15px 0 0;
+}
+nav a{
+	display:inline-block;
+	font-size:20px;
+	margin:0 20px;
+	color:#000;
+	text-decoration:none;
+}
+section {
+	width:860px;
+	margin:auto;
+	background-color:#FFC;
+	padding:25px;
+	box-sizing:border-box;
+}
+footer {
+	width:860px;
+	margin:auto;
+	background-color:#630;
+	color:#FFC;
+	padding:50px;
+	text-align:center;
+	box-sizing:border-box;
+	border-radius: 0 0 15px 15px;
+}
+#foto {
+	text-align:center;
+	}
+	
+	
+	
+	
+	
+	
+	
+
+
+
